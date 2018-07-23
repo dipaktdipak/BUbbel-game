@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../TallTower/Assets/Script/CrateManager.cs">
+    <Files>
+      <File FileName="../TallTower/Assets/Script/Crate.cs" Line="20" Column="11" />
+      <File FileName="../TallTower/Assets/Script/CrateManager.cs" Line="23" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
